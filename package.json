@@ -1,0 +1,22 @@
+{
+  "name": "my_project",
+  "version": "1.0.0",
+  "description": "f*cking car",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainursheg/sf_test_01.git"
+  },
+  "author": "fu**ing user",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ainursheg/sf_test_01/issues"
+  },
+  "homepage": "https://github.com/ainursheg/sf_test_01#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
